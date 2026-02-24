@@ -1,7 +1,7 @@
 import { Popular } from "./Popular";
 import { Comment } from "./Comment";
 import { NowPlay } from "./NowPlaying";
-import { Image } from "./image";
+import { Image } from "./Image";
 import { Header } from "./Header";
 import { MovieDetail } from "./MovieDetail";
 import useScrollTop from "./Scroll";
